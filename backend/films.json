@@ -1,0 +1,203 @@
+[
+    {
+      "id": "m1",
+      "title": "The Shawshank Redemption",
+      "image": {
+        "src": "shawshank-redemption.jpg",
+        "alt": "A poster featuring two men standing in the prison yard."
+      }
+    },
+    {
+      "id": "m2",
+      "title": "The Godfather",
+      "image": {
+        "src": "the-godfather.jpg",
+        "alt": "A classic image of Marlon Brando as Vito Corleone in a dark suit."
+      }
+    },
+    {
+      "id": "m3",
+      "title": "The Dark Knight",
+      "image": {
+        "src": "the-dark-knight.jpg",
+        "alt": "Batman standing tall against a fiery city backdrop."
+      }
+    },
+    {
+      "id": "m4",
+      "title": "Pulp Fiction",
+      "image": {
+        "src": "pulp-fiction.jpg",
+        "alt": "Uma Thurman and John Travolta dancing in a retro club scene."
+      }
+    },
+    {
+      "id": "m5",
+      "title": "Inception",
+      "image": {
+        "src": "inception.jpg",
+        "alt": "A surreal city bending into itself with Leonardo DiCaprio."
+      }
+    },
+    {
+      "id": "m6",
+      "title": "Fight Club",
+      "image": {
+        "src": "fight-club.jpg",
+        "alt": "Brad Pitt and Edward Norton in a gritty, dark setting."
+      }
+    },
+    {
+      "id": "m7",
+      "title": "Forrest Gump",
+      "image": {
+        "src": "forrest-gump.jpg",
+        "alt": "Tom Hanks sitting on a park bench with a suitcase."
+      }
+    },
+    {
+      "id": "m8",
+      "title": "The Matrix",
+      "image": {
+        "src": "the-matrix.jpg",
+        "alt": "Keanu Reeves dodging bullets in a green-hued virtual world."
+      }
+    },
+    {
+      "id": "m9",
+      "title": "Schindler's List",
+      "image": {
+        "src": "schindlers-list.jpg",
+        "alt": "A black-and-white image with a little girl in a red coat."
+      }
+    },
+    {
+      "id": "m10",
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "image": {
+        "src": "lotr-fellowship.jpg",
+        "alt": "Frodo and the Fellowship walking across a grassy plain."
+      }
+    },
+    {
+      "id": "m11",
+      "title": "Star Wars: Episode IV - A New Hope",
+      "image": {
+        "src": "star-wars-new-hope.jpg",
+        "alt": "Luke Skywalker with his lightsaber in front of the Death Star."
+      }
+    },
+    {
+      "id": "m12",
+      "title": "Interstellar",
+      "image": {
+        "src": "interstellar.jpg",
+        "alt": "Matthew McConaughey in a spacesuit standing on an alien planet."
+      }
+    },
+    {
+      "id": "m13",
+      "title": "The Lion King",
+      "image": {
+        "src": "the-lion-king.jpg",
+        "alt": "Simba and Mufasa looking over the Pride Lands at sunset."
+      }
+    },
+    {
+      "id": "m14",
+      "title": "Saving Private Ryan",
+      "image": {
+        "src": "saving-private-ryan.jpg",
+        "alt": "Soldiers storming the beach during D-Day."
+      }
+    },
+    {
+      "id": "m15",
+      "title": "Avengers: Endgame",
+      "image": {
+        "src": "avengers-endgame.jpg",
+        "alt": "The Avengers assembled in a battle against Thanos."
+      }
+    },
+    {
+      "id": "m16",
+      "title": "Gladiator",
+      "image": {
+        "src": "gladiator.jpg",
+        "alt": "Russell Crowe as Maximus in the Colosseum."
+      }
+    },
+    {
+      "id": "m17",
+      "title": "Jurassic Park",
+      "image": {
+        "src": "jurassic-park.jpg",
+        "alt": "A T-Rex roaring in the rain."
+      }
+    },
+    {
+      "id": "m18",
+      "title": "The Silence of the Lambs",
+      "image": {
+        "src": "silence-of-the-lambs.jpg",
+        "alt": "Hannibal Lecter in a mask behind bars."
+      }
+    },
+    {
+      "id": "m19",
+      "title": "Titanic",
+      "image": {
+        "src": "titanic.jpg",
+        "alt": "Leonardo DiCaprio and Kate Winslet at the ship's bow."
+      }
+    },
+    {
+      "id": "m20",
+      "title": "Coco",
+      "image": {
+        "src": "coco.jpg",
+        "alt": "Miguel playing guitar in the Land of the Dead."
+      }
+    },
+    {
+      "id": "m21",
+      "title": "Spirited Away",
+      "image": {
+        "src": "spirited-away.jpg",
+        "alt": "Chihiro standing in front of a magical bathhouse."
+      }
+    },
+    {
+      "id": "m22",
+      "title": "Whiplash",
+      "image": {
+        "src": "whiplash.jpg",
+        "alt": "A young drummer performing passionately."
+      }
+    },
+    {
+      "id": "m23",
+      "title": "The Social Network",
+      "image": {
+        "src": "the-social-network.jpg",
+        "alt": "Jesse Eisenberg as Mark Zuckerberg sitting in front of a laptop."
+      }
+    },
+    {
+      "id": "m24",
+      "title": "Parasite",
+      "image": {
+        "src": "parasite.jpg",
+        "alt": "A family standing in a lush garden with an eerie atmosphere."
+      }
+    },
+    {
+      "id": "m25",
+      "title": "La La Land",
+      "image": {
+        "src": "la-la-land.jpg",
+        "alt": "Emma Stone and Ryan Gosling dancing under a purple sunset."
+      }
+    }
+  ]
+  
